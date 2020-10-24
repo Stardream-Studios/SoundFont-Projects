@@ -1,7 +1,7 @@
 ---
 name: MIDI channel 10 drum map issue
 about: Any of the notes between 27 and 87 on a channel 10 drumkit do not use the GS
-  base map.
+ / GM2 base map.
 title: "[204]"
 labels: Bug
 assignees: LoveBodhi
